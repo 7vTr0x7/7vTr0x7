@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **full stack development**
 
-- 💬 Ask me about **React.js,Next.js,JavaScript,Typescript,Web3,Blockchain,Ethereum,Solidity**
+- 💬 Ask me about **React.js,Next.js,JavaScript,Typescript,Web3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
