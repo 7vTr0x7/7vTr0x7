@@ -8,9 +8,8 @@
 
 - 🌱 I’m currently learning **full stack development**
 
-- 💬 Ask me about **react,JavaScript,Solidity,web3**
+- 💬 Ask me about **react.js,JavaScript,typescript,next.js**
 
-- 📫 How to reach me **https://www.linkedin.com/in/salman-shaikh-4b2706235/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
