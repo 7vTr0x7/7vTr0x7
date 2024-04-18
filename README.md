@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **full stack development**
 
-- 💬 Ask me about **React.js,JavaScript,TypeScript,Next.js,Front-Development **
+- 💬 Ask me about **React.js, JavaScript, TypeScript, Next.js, Front-Development **
 
 
 <h3 align="left">Connect with me:</h3>
