@@ -1,4 +1,4 @@
-
+ 
 <h1 align="center">Hi 👋, I'm Salman Shaikh</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 <img align="right" alt="coding" width="400" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/quaqsusb34cn96j9etvh.gif" >
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **full stack development**
 
-- 💬 Ask me about **React.js, JavaScript, TypeScript, Next.js, Front-Development **
+- 💬 Ask me about **React.js, JavaScript, TypeScript, Next.js, Front-End Development **
 
 
 <h3 align="left">Connect with me:</h3>
