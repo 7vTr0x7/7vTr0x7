@@ -23,17 +23,17 @@
 
   <!-- Streak Stats -->
   <span style="margin-right:10px;">
-    <img src="https://streak-stats.demolab.com?user=7vTr0x7&theme=tokyo-night&border_radius=10" alt="Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=7vTr0x7&theme=tokyonight&border_radius=10" alt="Streak Stats" />
   </span>
 
   <!-- Top Languages -->
   <span style="margin-right:10px;">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=7vTr0x7&layout=compact&theme=tokyo-night&hide=html" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=7vTr0x7&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" />
   </span>
 
   <!-- GitHub Stats -->
   <span>
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=7vTr0x7&show_icons=true&theme=tokyo-night&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=7vTr0x7&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   </span>
 
 </p>
