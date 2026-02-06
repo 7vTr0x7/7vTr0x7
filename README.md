@@ -26,5 +26,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=7vTr0x7&theme=tokyo-night" />
 </p>
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=7vtr0x7&show_icons=true&locale=en&layout=compact" alt="7vtr0x7" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7vtr0x7&show_icons=true&locale=en" alt="7vtr0x7" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7vtr0x7&" alt="7vtr0x7" /></p>
 
