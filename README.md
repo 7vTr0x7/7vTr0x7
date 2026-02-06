@@ -21,24 +21,15 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=7vTr0x7&show_icons=true&theme=tokyonight&cache_seconds=1800"
-    width="495"
-  />
+  <img src="https://streak-stats.demolab.com?user=7vTr0x7&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=7vTr0x7&layout=compact&theme=tokyonight&cache_seconds=1800"
-    width="495"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=7vTr0x7&theme=tokyo-night" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=7vTr0x7&theme=tokyonight"
-    width="495"
-  />
+  <img src="https://metrics.lecoq.io/7vTr0x7?template=classic&languages=1&languages.limit=6" />
 </p>
 
 
