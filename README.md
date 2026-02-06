@@ -29,12 +29,12 @@
 
 
 <p >
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=7vTr0x7&layout=compact&theme=react-dark&hide=html" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=7vTr0x7&layout=compact&theme=dark&hide=html" />
 </p>
 
 
 <p >
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=7vTr0x7&show_icons=true&theme=react-dark&count_private=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=7vTr0x7&show_icons=true&theme=dark&count_private=true" />
 </p>
 
 <p align="center">
