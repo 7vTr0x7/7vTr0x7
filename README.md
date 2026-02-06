@@ -23,7 +23,7 @@
 
   <!-- Streak Stats -->
   <span style="margin-right:10px;">
-    <img src="https://streak-stats.demolab.com?user=7vTr0x7&theme=tokyonight />
+  <img src="https://streak-stats.demolab.com?user=7vTr0x7&theme=tokyonight" />
   </span>
 
   <!-- Top Languages -->
