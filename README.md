@@ -1,6 +1,3 @@
-make it better mordern style attractive and more stats as many as you can i am not anymore learning 
-
-
 <h1 align="center">Hi 👋, I'm Salman Shaikh</h1>
 <h3 align="center">A Frontend developer</h3>
 <img align="right" alt="coding" width="400" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/quaqsusb34cn96j9etvh.gif" >
