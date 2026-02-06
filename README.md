@@ -20,19 +20,14 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=7vTr0x7&theme=react-dar" />
+  <img src="https://streak-stats.demolab.com?user=7vTr0x7&theme=react-dark" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=7vTr0x7&theme=react-dark&radius=10" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Top%20Language-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=7vTr0x7&layout=compact&theme=radical&hide=html" />
 </p>
@@ -44,6 +39,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=7vTr0x7&theme=dark&border=5&fire=🔥" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=7vTr0x7&theme=react-dark&radius=10" />
 </p>
 
 
