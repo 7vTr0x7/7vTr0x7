@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/7vTr0x7?template=classic&languages=1&languages.limit=6" />
+  <img src="https://streak-stats.demolab.com?user=7vTr0x7&theme=tokyonight" />
 </p>
 
 
