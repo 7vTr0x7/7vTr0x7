@@ -21,22 +21,23 @@
 
 <p align="center">
 
-  <!-- Streak Stats (closest React Dark alternative) -->
+  <!-- Streak Stats -->
   <span style="margin-right:10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=7vTr0x7&theme=dark&border_radius=10&fire=🔥&sideLabels=true" alt="Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=7vTr0x7&theme=tokyo-night&border_radius=10" alt="Streak Stats" />
   </span>
 
   <!-- Top Languages -->
   <span style="margin-right:10px;">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=7vTr0x7&layout=compact&theme=react-dark&hide=html" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=7vTr0x7&layout=compact&theme=tokyo-night&hide=html" alt="Top Languages" />
   </span>
 
   <!-- GitHub Stats -->
   <span>
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=7vTr0x7&show_icons=true&theme=react-dark&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=7vTr0x7&show_icons=true&theme=tokyo-night&count_private=true" alt="GitHub Stats" />
   </span>
 
 </p>
+
 
 
 <p align="center">
