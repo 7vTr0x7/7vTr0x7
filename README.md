@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Salman Shaikh</h1>
-<h3 align="center">A passionate Full stack developer</h3>
+<h3 align="center">A Frontend developer</h3>
 <img align="right" alt="coding" width="400" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/quaqsusb34cn96j9etvh.gif" >
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7vtr0x7&label=Profile%20views&color=0e75b6&style=flat" alt="7vtr0x7" /> </p>
 
-- 🌱 I’m currently learning **full stack development**
+- 🌱 I’m currently learning **Frontend development**
 
-- 💬 Ask me about **React.js, JavaScript, TypeScript, Next.js, Front-End Development, Full-Stack Development **
+- 💬 Ask me about **React.js, JavaScript, TypeScript, Next.js, Front-End Development **
 
 
 <h3 align="left">Connect with me:</h3>
