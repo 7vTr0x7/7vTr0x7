@@ -27,7 +27,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=7vTr0x7&theme=dark&border=5&fire=🔥&sideLabels=true" />
 </p>
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=7vtr0x7&show_icons=true&locale=en&layout=compact" alt="7vtr0x7" /></p>
 <p >
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=7vTr0x7&layout=compact&theme=dark&hide=html" />
 </p>
