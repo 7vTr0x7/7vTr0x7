@@ -1,6 +1,3 @@
-in this github readme i want to show my stats but it is not visiable and it says api is not working
-
- 
 <h1 align="center">Hi 👋, I'm Salman Shaikh</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 <img align="right" alt="coding" width="400" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/quaqsusb34cn96j9etvh.gif" >
