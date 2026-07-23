@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Salman Shaikh</h1>
 <h3 align="center">A Frontend developer</h3>
 <img align="right" alt="coding" width="400" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/quaqsusb34cn96j9etvh.gif" >
@@ -28,12 +29,10 @@
    
 
   <!-- Streak Stats -->
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=7vTr0x7&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
-  />
-</p>
+  <span style="margin-right:10px;">
+  <img src="https://streak-stats.demolab.com?user=7vTr0x7&theme=tokyonight" />
+  </span>
+
 
 
   <!-- GitHub Stats -->
