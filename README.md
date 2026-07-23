@@ -29,9 +29,12 @@
    
 
   <!-- Streak Stats -->
-  <span style="margin-right:10px;">
-  <img src="https://streak-stats.demolab.com?user=7vTr0x7&theme=tokyonight" />
-  </span>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=7vTr0x7&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" 
+    alt="GitHub Stats"
+  />
+</p>
 
 
 
