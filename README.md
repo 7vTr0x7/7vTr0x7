@@ -9,15 +9,6 @@ Frontend Engineer | React.js | TypeScript | Next.js
 <img align="right" alt="coding" width="400" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/quaqsusb34cn96j9etvh.gif" >
 
 
-<p align="center">
-  <img 
-    align="right" 
-    alt="Coding" 
-    width="400" 
-    src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/quaqsusb34cn96j9etvh.gif"
-  />
-</p>
-
 ### 👨‍💻 About Me
 
 - 💼 Frontend Engineer with **3 years of experience**
