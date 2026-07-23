@@ -1,17 +1,32 @@
 
 
 <h1 align="center">Hi 👋, I'm Salman Shaikh</h1>
-<h3 align="center">A Frontend developer</h3>
+
+
+<h3 align="center">
+Frontend Engineer | React.js | TypeScript | Next.js
+</h3>
 <img align="right" alt="coding" width="400" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/quaqsusb34cn96j9etvh.gif" >
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=7vtr0x7&label=Profile%20views&color=0e75b6&style=flat" alt="7vtr0x7" /> </p>
+<p align="center">
+  <img 
+    align="right" 
+    alt="Coding" 
+    width="400" 
+    src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/quaqsusb34cn96j9etvh.gif"
+  />
+</p>
 
-- 🌱 I’m currently learning **Frontend development**
+### 👨‍💻 About Me
 
-- 💬 Ask me about **React.js, JavaScript, TypeScript, Next.js, Front-End Development **
+- 💼 Frontend Engineer with **3 years of experience**
+- ⚛️ Building scalable applications with **React.js, TypeScript, and Next.js**
+- 🚀 Experienced in **e-commerce, enterprise SaaS, and Web3 platforms**
+- 🔧 Interested in **frontend architecture, performance optimization, and scalable systems**
+- 💬 Ask me about **React.js, JavaScript, TypeScript, Next.js, and Frontend Development**
 
-
+<br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/salman-shaikh-4b2706235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salman-shaikh-4b2706235/" height="30" width="40" /></a>
