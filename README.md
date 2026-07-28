@@ -29,12 +29,11 @@ Frontend Engineer | React.js | TypeScript | Next.js
 
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=7vTr0x7&theme=tokyonight&hide_border=true" 
+  <img
+    src="https://streak-stats.demolab.com?user=7vTr0x7&theme=tokyonight"
     alt="GitHub Streak"
   />
 </p>
-
 
 <p align="center">
   <img 
