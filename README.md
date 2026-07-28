@@ -6,6 +6,10 @@
 <h3 align="center">
 Frontend Engineer | React.js | TypeScript | Next.js
 </h3>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=7vtr0x7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 <img align="right" alt="coding" width="400" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/quaqsusb34cn96j9etvh.gif" >
 
 
