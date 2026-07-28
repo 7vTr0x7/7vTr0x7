@@ -35,18 +35,18 @@ Frontend Engineer | React.js | TypeScript | Next.js
   />
 </p>
 
-<!-- ===================== GitHub Stats ===================== -->
+<!-- GitHub Stats -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=7vTr0x7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600&v=1"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=7vTr0x7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
   />
 </p>
 
-<!-- ===================== Top Languages ===================== -->
+<!-- Top Languages -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=7vTr0x7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=3600&v=1"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=7vTr0x7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Top Languages"
   />
 </p>
