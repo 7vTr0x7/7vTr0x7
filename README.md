@@ -33,10 +33,9 @@ Frontend Engineer | React.js | TypeScript | Next.js
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=7vTr0x7&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-  />
+  <a href="https://github.com/7vTr0x7">
+    <img src="https://github-readme-stats.vercel.app/api?username=7vTr0x7&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  </a>
 </p>
 <!-- Top Languages -->
 <p align="center">
