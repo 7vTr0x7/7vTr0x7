@@ -32,12 +32,7 @@ Frontend Engineer | React.js | TypeScript | Next.js
 
 
 <!-- GitHub Streak -->
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=7vTr0x7&theme=tokyonight"
-    alt="GitHub Streak"
-  />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7vTr0x7&theme=tokyonight)
 
 <!-- Top Languages -->
 <p align="center">
