@@ -32,7 +32,9 @@ Frontend Engineer | React.js | TypeScript | Next.js
 
 
 <!-- GitHub Streak -->
+<p align="center">
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7vTr0x7&theme=tokyonight)
+</p>
 
 <!-- Top Languages -->
 <p align="center">
