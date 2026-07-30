@@ -33,9 +33,11 @@ Frontend Engineer | React.js | TypeScript | Next.js
 
 <!-- GitHub Streak -->
 <p align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7vTr0x7&theme=tokyonight)
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=7vTr0x7&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
 </p>
-
 <!-- Top Languages -->
 <p align="center">
   <img
