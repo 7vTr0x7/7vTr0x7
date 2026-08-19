@@ -1,8 +1,4 @@
-
-
 <h1 align="center">Hi 👋, I'm Salman Shaikh</h1>
-
-
 <h3 align="center">
 Frontend Engineer | React.js | TypeScript | Next.js
 </h3>
