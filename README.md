@@ -45,10 +45,18 @@ Frontend Engineer | React.js | TypeScript | Next.js
   />
 </p>
 
-<!-- Activity Graph -->
+<!-- Activity Graph
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=7vTr0x7&theme=react-dark&radius=10&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
+-->
+<!-- Activity Graph -->
+<p align="center">
+  <img
+    src="./profile/activity.svg"
     alt="GitHub Activity Graph"
   />
 </p>
